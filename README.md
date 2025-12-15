@@ -1,4 +1,13 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<luvsaxena279>/generative-ai-resume-helper/blob/main/notebook.ipynb)
+
 # Resume RAG Chatbot (Gradio + Groq)
+
+## 🚀 Demo
+
+- **Interactive notebook (recommended):** click the “Open in Colab” badge above to run the resume chatbot in your browser with no local setup.
+- **What you can try:** upload your own public resume PDF to the `data/` folder in Colab and ask questions like:
+  - “What are the main skills in this resume?”
+  - “Which roles does this profile fit best?”
 
 An interactive **Generative AI chatbot** that can read resume PDF files and answer questions about them using **Retrieval-Augmented Generation (RAG)**.  
 It is designed as a portfolio project for an AI generalist, showing skills in embeddings, vector search, LLMs, and web app deployment.
