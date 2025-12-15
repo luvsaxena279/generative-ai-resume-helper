@@ -2,6 +2,11 @@
 
 # Resume RAG Chatbot (Gradio + Groq)
 
+## 🌐 Live Demo
+
+- **Hugging Face Space:** https://huggingface.co/spaces/luvsaxena279/generative-ai-resume-helper
+- **Colab Notebook:** use the “Open in Colab” badge above.
+
 ## 🚀 Demo
 
 - **Interactive notebook (recommended):** click the “Open in Colab” badge above to run the resume chatbot in your browser with no local setup.
